@@ -29,6 +29,8 @@ h1 {
 address{
     font-size: 2rem;
     font-style: normal;
+    color: #7c7c7c;
+    line-height: 30px;
 }
 
 address > a{
@@ -51,3 +53,37 @@ ul{
     padding-left: 25px;
 }
 
+table {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    border: none;
+    font-weight: 550;
+    
+
+}
+thead{
+    font-style: none;
+    text-align: left;
+    color: #ffffff;
+
+}
+
+.bg-blue{
+    background-color: #20a9e5 ;
+}
+.bg-lblue{
+    background-color: #b1e5f2 ;
+
+}
+
+.w25{
+    width: 25%;
+}
+
+.highlight{
+    background-color: #ffff00;
+}
+
+.tsmall{
+    font-size: 1.3rem;
+}
