@@ -14,7 +14,7 @@ header {
 /* logo sizing */
 header > img {
   max-height: 80px;
-  margin: 30px 10px 10px 10px;
+  margin: 30px 10px 10px 5%;
 }
 
 section {
@@ -39,7 +39,7 @@ address > a{
 }
 
 .images {
-    height: 650px
+    height: 640px;
 }
 
 p{
@@ -118,3 +118,7 @@ h3{
     background-image: url(../img/graph.jpg);
 }
 
+.container{
+    max-width: 90%;
+    margin: auto;
+}
