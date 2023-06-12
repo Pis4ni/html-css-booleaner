@@ -1,19 +1,35 @@
-*{
-    margin: 0;
-    padding: 0%;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
 }
 
-header{
-    background-color: #4ea0ff;
-    background-image: url(../img/pattern.png);
-    background-repeat: repeat;
-    background-size: 450px;
+header {
+  background-color: #4ea0ff;
+  background-image: url(../img/pattern.png);
+  background-repeat: repeat;
+  background-size: 450px;
 }
-header > img{
-    max-height: 80px;
-    margin: 30px 10px 10px 10px;
+
+header > img {
+  max-height: 80px;
+  margin: 30px 10px 10px 10px;
 }
-section{
-    margin: 5px;
+section {
+  margin: 5px;
+}
+
+h1 {
+    font-size: 4.5rem;
+    font-weight: 900;
+  }
+
+address{
+    font-size: 2rem;
+    font-style: normal;
+}
+
+address > a{
+    text-decoration: none;
+    color: #29ace5;
 }
