@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 450px;
+}
+header > img{
+    max-height: 80px;
+    margin: 30px 10px 10px 10px;
+}
+section{
+    margin: 5px;
+}
