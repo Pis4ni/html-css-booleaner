@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  padding: 0%;
   box-sizing: border-box;
 }
 
@@ -32,4 +31,8 @@ address{
 address > a{
     text-decoration: none;
     color: #29ace5;
+}
+
+.images {
+    height: 650px
 }
