@@ -87,3 +87,33 @@ thead{
 .tsmall{
     font-size: 1.3rem;
 }
+
+footer{
+    margin: 5 px;
+}
+
+h3{
+    color: #7c7c7c;
+    padding: 5px;
+    font-size: 2rem;
+}
+.card{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 350px;
+    height: 250px;
+    font-size: 2rem;
+    color: #ffffff;
+    margin:10px;
+    padding: 15px;
+    font-weight: 800;
+    
+}
+
+.bgimgone{
+    background-image: url(../img/monitor.jpg);
+}
+.bgimgtwo{
+    background-image: url(../img/graph.jpg);
+}
+
